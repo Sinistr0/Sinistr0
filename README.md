@@ -1,8 +1,8 @@
 - Hi, I’m @Sinistr0
 - I’m interested in Python, JavaScript, Shell Script and PHP
--I’m currently learning ... JavaScript and HTML5
-- I’m looking to collaborate on ...
-- How to reach me (....)
+-I’m currently learning ... JShellScript
+- I’m looking to collaborate on anything i can do
+- How to reach me (email me: vodkaakdov@protonmail.com)
 
 <!---
 Sinistr0/Sinistr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

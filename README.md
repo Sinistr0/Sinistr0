@@ -1,6 +1,5 @@
 - Hi, I’m @Sinistr0
-- I’m interested in Python, JavaScript, Shell Script and PHP
--I’m currently learning ... JShellScript
+- I’m interested in cybersecurity, Devops and devsecops
 - I’m looking to collaborate on anything i can do
 - How to reach me (email me: vodkaakdov@protonmail.com)
 
